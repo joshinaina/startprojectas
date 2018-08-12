@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48684" started-at="2018-08-12T16:23:38Z" finished-at="2018-08-12T16:24:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48684" started-at="2018-08-12T16:23:38Z" finished-at="2018-08-12T16:24:26Z">
+      <class name="Driven.Autoit">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:Driven.Autoit@523884b2]" name="launchbrowser" is-config="true" duration-ms="45916" started-at="2018-08-12T16:23:38Z" finished-at="2018-08-12T16:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="autoe()[pri:0, instance:Driven.Autoit@523884b2]" name="autoe" duration-ms="2612" started-at="2018-08-12T16:24:24Z" finished-at="2018-08-12T16:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoe -->
+      </class> <!-- Driven.Autoit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
